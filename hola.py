@@ -5,3 +5,6 @@ numeros = [1, 2, 3, 4, 5]
 cuadrados = [n**2 for n in numeros]
 print("Lista de números:", numeros)
 print("Lista de cuadrados:", cuadrados)
+
+print("este es un cambio conflictivo desde la rama 2")
+
